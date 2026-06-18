@@ -10,7 +10,7 @@ st.write(" Spécialiste de la donnée géographique,je combine l'expertise des l
 with st.sidebar:
     st.header("Aboubacar Kounta")
     st.write("Géomaticien")
-    st.sidebar.markdown("## ** Informations personnelles **")
+    st.sidebar.markdown("##  Informations personnelles ")
     st.write("")
     st.write("Adresse: Dakar, Sénégal")
     st.write(" Mail: Kontaa508@gmail.com")
