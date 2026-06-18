@@ -37,7 +37,10 @@ st.write("Télédétection")
 st.write("Photogrammétrie")
 st.write("Python (Automatisation des Données )")
 st.write("Suite Office")
-
+st.subheader("Réalisations et Projets ")
+st.write("-Application WEB SIG: Réalisation d'interface interactives Jypiterlabs/Streamlit")
+st.write("-Carte de situation et THématique: Réalisation de Cartes pour l'aide à la prise d décisions")
+st.write("-Travaux de Terrain: Levés Topographique et de denivelées et de pentes")
 
 # 6. message de contact 
 st.write("---")
