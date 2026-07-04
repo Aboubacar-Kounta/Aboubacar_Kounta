@@ -8,7 +8,7 @@ st.write(" Spécialiste de la donnée géographique,je combine l'expertise des l
         
 #st.audio("")
 with st.sidebar:
-    st.header("Aboubacar Kounta")
+    st.header("Aboubacar Konta")
     st.write("Géomaticien")
     st.sidebar.markdown("##  Informations personnelles ")
     st.write("")
