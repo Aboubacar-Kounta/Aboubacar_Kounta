@@ -44,4 +44,3 @@ st.write("-Carte de situation et THématique: Réalisation de Cartes pour l'aide
 st.write("-Travaux de Terrain: Levés Topographique et de denivelées et de pentes")
 st.write("- Création d'une Base de données relationnelles et spatiale")
 st.write("-Numérisation de Parcellaires")
-
