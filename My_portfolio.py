@@ -37,13 +37,11 @@ st.write("Télédétection")
 st.write("Photogrammétrie")
 st.write("Python (Automatisation des Données )")
 st.write("Suite Office")
+st.write(" Power AMC, MCD,MPD")
 st.subheader("Réalisations et Projets ")
 st.write("-Application WEB SIG: Réalisation d'interface interactives Jypiterlabs/Streamlit")
 st.write("-Carte de situation et THématique: Réalisation de Cartes pour l'aide à la prise d décisions")
 st.write("-Travaux de Terrain: Levés Topographique et de denivelées et de pentes")
+st.write("- Création d'une Base de données relationnelles et spatiale")
+st.write("Numérisation de Parcellaires")
 
-# 6. message de contact 
-st.write("---")
-message = st.text_input("Laissez-moi un message :")
-if st.button("Envoyer"):
-    st.write("Merci ! Message reçu :", message)
