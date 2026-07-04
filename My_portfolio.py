@@ -43,5 +43,5 @@ st.write("-Application WEB SIG: Réalisation d'interface interactives Jypiterlab
 st.write("-Carte de situation et THématique: Réalisation de Cartes pour l'aide à la prise d décisions")
 st.write("-Travaux de Terrain: Levés Topographique et de denivelées et de pentes")
 st.write("- Création d'une Base de données relationnelles et spatiale")
-st.write("Numérisation de Parcellaires")
+st.write("-Numérisation de Parcellaires")
 
